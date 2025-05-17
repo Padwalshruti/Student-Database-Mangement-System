@@ -5,7 +5,7 @@ A structured SQL-based system for managing and analyzing student data in educati
 ## 🔍 Features
 - Stores student details: name, contact, course, grades, fees, and scholarships
 - SQL queries for data entry, updates, and deletion
-- Attendance and scholarship tracking
+- Attendance and scholarship 
 - Report generation for admissions, courses, grades, and regions
 
 ## 📊 Reports Included
